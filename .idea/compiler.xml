@@ -83,7 +83,7 @@
         <module name="x11.x11-protocol.x11-protocol-sync.test" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="1.8">
+    <bytecodeTargetLevel target="11">
       <module name="x11.integration-tests.integrationTest" target="17" />
       <module name="x11.integration-tests.main" target="17" />
       <module name="x11.integration-tests.test" target="17" />
